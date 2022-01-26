@@ -1,0 +1,15 @@
+.button_atn{
+    margin-left:'20px';
+    font-size:"20px";
+    vertical-align:"middle";
+    color: 'rgba(0, 0, 0, 0.54)';
+    cursor: pointer;
+}
+
+.content{
+    color:'#007bff';
+    font-weight: '400';
+    margin-top: '-18px';
+    margin-left: '60px';
+    cursor: pointer;
+}
